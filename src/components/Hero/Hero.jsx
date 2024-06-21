@@ -68,7 +68,6 @@ const Hero = () => {
           <motion.div
             variants={theBestVariants}
             initial="start"
-            // animate="end"
             whileInView="end"
           ></motion.div>
           <span>the best fitness club in town</span>
